@@ -1,0 +1,12 @@
+body {
+  width: 100vh;
+  height: 100vh;
+}
+.buttons {
+  gap: 1vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
